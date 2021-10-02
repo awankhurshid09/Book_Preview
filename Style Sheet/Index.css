@@ -112,3 +112,15 @@ body {
 .feed {
 	left: 10px;
 }
+
+.con {  
+	max-width: 1350px;  
+	width: 100%;  
+	margin: 50px;  
+	height: auto;  
+	display: block;
+	max-width: 1350px;
+	margin: 50px;  
+	height: auto;  
+	display: block
+}

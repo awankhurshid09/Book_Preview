@@ -1,0 +1,14 @@
+body {
+	background: rgba(100, 200, 300, .5);
+}
+
+div {
+	display: flex;
+    justify-content: center;
+}
+
+.center {
+	font-size: medium;
+	margin: auto;
+	width: 65%;
+}

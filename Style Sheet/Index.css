@@ -61,7 +61,7 @@ body {
 }
 
 
-.column {
+/* .column {
 	float: left;
 	width: 33.33%;
 	padding: 5px;
@@ -71,9 +71,9 @@ body {
 	content: "";
 	clear: both;
 	display: table;
-}
+} */
 
-/*
+
 .row {
 	display: flex;
   }
@@ -82,7 +82,7 @@ body {
 	flex: 33.33%;
 	padding: 5px;
 }
-*/
+
 
 .caption {
 	font-size: x-large;

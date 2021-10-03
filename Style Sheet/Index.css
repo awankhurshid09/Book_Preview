@@ -34,6 +34,10 @@ body {
 	color:brown;
 	text-align: center;
 	font-size: x-large;
+	background:black;
+    justify-content:center;
+	margin: auto;
+	padding: 10px;
 }
 
 .para {
